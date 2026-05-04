@@ -53,7 +53,7 @@ Customer churn is a critical problem in the telecom industry. This project build
 ## ▶️ How to Run
 
 ```bash
-git clone <your-repo-link>
+git clone <(https://github.com/ishitarajput02/Churn-prediction.git)>
 cd telco-churn-prediction
 pip install -r requirements.txt
 ```
